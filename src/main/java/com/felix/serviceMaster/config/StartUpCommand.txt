@@ -1,0 +1,1 @@
+cd /home/felix/Code/DevPortfolio/Spring-Framework/serviceMaster ; /usr/bin/env SPRING_DATASOURCE_PASSWORD=@Safe96441 /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_c6xa9wvdudavnysdqqprka4jw.argfile com.felix.serviceMaster.ServiceMasterApplication
